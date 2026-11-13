@@ -52,6 +52,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
 
+
 ## 원작 버그 수정내역
 
 적용 버전: 와이드스크린판 / 4:3판
