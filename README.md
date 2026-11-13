@@ -3,7 +3,7 @@
 <img width="1593" height="896" alt="高機動幻想　ガンパレード・マーチ 2026-11-13-17-07-51" src="https://github.com/user-attachments/assets/82821f26-ef48-4eb0-bf7e-327463b828de" />
 
 건퍼레이드 마치 한국어 패처
-
+작업: Snowyegret [분석, 프로그래밍, 한글화 툴 제작, 기타 전반] aabb0423[QA, 버그 수정, 와이드스크린 모드]
 무수정 일본판 원본 BIN에 적용하는 오프라인 패처입니다. 원본 게임은 포함하지 않습니다.
 
 1. 이 폴더의 GPM_Korean_Patcher.html을 데스크톱 브라우저에서 엽니다.
